@@ -9,3 +9,8 @@ Questions
 - Do I add a click event on every card?
 - I need the id of the pokemon to display information about that pokemon.
 
+
+links
+
+- https://pokeapi.co/api/v2/pokemon/?offset=251&limit=135
+- https://pokeres.bastionbot.org/images/pokemon/${id}.png
