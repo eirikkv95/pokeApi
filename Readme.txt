@@ -1,16 +1,8 @@
-Pokemon Api 
+Pokémon Api 
+ 
+This Repo shows you all the pokémon from generation 3 (135)
 
-- Get every pokemon from gen 3 on load. 
-- Display each pokemon With an image, name, type and number.
-- When you click on a pokemon it should show a popup with more information about that specific pokemon.
+- You can filter each pokémon by name or pokedex number.
+- When you click on a certain pokemon, a popup shows up. It contains more details about that specific pokemon.
 
-
-Questions
-- Do I add a click event on every card?
-- I need the id of the pokemon to display information about that pokemon.
-
-
-links
-
-- https://pokeapi.co/api/v2/pokemon/?offset=251&limit=135
-- https://pokeres.bastionbot.org/images/pokemon/${id}.png
+More functionality will be added.
